@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e7edf3"/><stop offset="1" stop-color="#f7ecd8"/></linearGradient></defs>
+<rect width="600" height="450" fill="url(#bg)"/>
+<circle cx="528.0" cy="63.00000000000001" r="72.0" fill="#fff" opacity=".55"/>
+<circle cx="48.0" cy="382.5" r="99.0" fill="#fff" opacity=".35"/>
+
+<rect y="370" width="600" height="80" fill="#1c3a5c"/>
+<g transform="translate(300 0)">
+<rect x="-170" y="300" width="340" height="30" rx="4" fill="#132c47"/><rect x="-160" y="330" width="320" height="30" rx="4" fill="#c89b4a"/><rect x="-176" y="270" width="352" height="30" rx="4" fill="#e26d5a"/>
+<rect x="-150" y="278" width="250" height="5" fill="#fff" opacity=".5"/><rect x="-140" y="338" width="200" height="5" fill="#fff" opacity=".5"/>
+<path d="M-90 200 v50 q90 44 180 0 v-50z" fill="#1c3a5c"/>
+<path d="M0 100 L170 168 L0 236 L-170 168Z" fill="#132c47"/>
+<path d="M0 100 L170 168 L0 236 L-170 168Z" fill="none" stroke="#274b73" stroke-width="3"/>
+<path d="M0 168 L150 178 v72" fill="none" stroke="#c89b4a" stroke-width="5" stroke-linecap="round"/><circle cx="150" cy="256" r="10" fill="#c89b4a"/><path d="M150 262v26" stroke="#c89b4a" stroke-width="7" stroke-linecap="round"/>
+<circle cy="168" r="8" fill="#c89b4a"/>
+</g>
+<g transform="translate(70 90)"><circle r="34" fill="#dab868"/><g stroke="#fff" stroke-width="3" fill="none" opacity=".9"><ellipse rx="14" ry="34"/><path d="M-34 0h68"/></g></g>
+<g transform="translate(520 110)"><path d="M0 0l10 22 24 3-18 16 5 24-21-12-21 12 5-24-18-16 24-3z" fill="#c89b4a" transform="scale(.9)"/></g></svg>

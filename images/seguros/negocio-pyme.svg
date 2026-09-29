@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e7edf3"/><stop offset="1" stop-color="#f7ecd8"/></linearGradient></defs>
+<rect width="600" height="450" fill="url(#bg)"/>
+<circle cx="528.0" cy="63.00000000000001" r="72.0" fill="#fff" opacity=".55"/>
+<circle cx="48.0" cy="382.5" r="99.0" fill="#fff" opacity=".35"/>
+
+<rect y="360" width="600" height="90" fill="#cfd8e2"/><rect y="360" width="600" height="8" fill="#b7c3d0"/>
+<g transform="translate(110 70)">
+<rect x="0" y="96" width="380" height="204" fill="#fff"/>
+<rect x="-10" y="62" width="400" height="44" rx="6" fill="#132c47"/>
+<path d="M-10 106 h400 v0 a33 26 0 0 1 -66.7 0 a33 26 0 0 1 -66.7 0 a33 26 0 0 1 -66.7 0 a33 26 0 0 1 -66.7 0 a33 26 0 0 1 -66.7 0 a33 26 0 0 1 -66.6 0z" fill="#c89b4a"/>
+<g fill="#e7edf3"><rect x="-10" y="106" width="0" height="0"/></g>
+<rect x="20" y="0" width="340" height="54" rx="10" fill="#1c3a5c"/><rect x="36" y="14" width="150" height="10" rx="5" fill="#dab868"/><rect x="36" y="32" width="90" height="8" rx="4" fill="#fff" opacity=".6"/>
+<rect x="30" y="160" width="170" height="140" rx="6" fill="#e7edf3" stroke="#1c3a5c" stroke-width="6"/>
+<rect x="46" y="230" width="60" height="70" fill="#f7ecd8"/><rect x="118" y="200" width="60" height="100" fill="#dab868" opacity=".7"/>
+<rect x="240" y="160" width="100" height="140" rx="6" fill="#1c3a5c"/><circle cx="326" cy="236" r="5" fill="#c89b4a"/>
+<rect x="250" y="172" width="80" height="14" rx="4" fill="#c89b4a"/>
+<text x="290" y="183" font-family="Arial" font-size="11" font-weight="700" fill="#0e2136" text-anchor="middle">ABIERTO</text>
+</g>
+<g transform="translate(50 320)"><rect width="56" height="46" rx="4" fill="#b98c5a"/><path d="M0 16h56" stroke="#8a6438" stroke-width="4"/><rect x="72" y="14" width="46" height="32" rx="4" fill="#c99d68"/><path d="M72 26h46" stroke="#8a6438" stroke-width="4"/></g>
+<g transform="translate(520 315) scale(0.8)"><path d="M0 -60 L48 -42 V4 C48 36 26 56 0 68 C-26 56 -48 36 -48 4 V-42 Z" fill="#1c3a5c"/><path d="M0 -48 L38 -34 V4 C38 30 20 46 0 56 C-20 46 -38 30 -38 4 V-34 Z" fill="none" stroke="#c89b4a" stroke-width="3"/><path d="M-14 0l9 9 19-20" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
